@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marcus579
+- 👀 I’m interested in data
+- 🌱 I’m currently learning python
+- 📫 How to reach me dphm57@gmail.com
